@@ -1,3 +1,4 @@
 git clone http://github.com/mbswe/Dotfiles.git $HOME/Dotfiles
 ln -s $HOME/Dotfiles/vimrc $HOME/.vimrc
+ln -s $HOME/Dotfiles/zshrc $HOME/.zshrc
 
